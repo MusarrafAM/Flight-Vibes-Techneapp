@@ -1,11 +1,14 @@
 import Hero from "./comonents/Hero";
-import Why_faq from "./comonents/Why_faq";
+import WhyFaq from "./comonents/WhyFaq";
+import PlanFlight from "./comonents/PlanFlight";
 
 export default function App() {
   return (
     <div>
       <Hero />
-      <Why_faq />
+      <WhyFaq />
+      <PlanFlight />
+      
     </div>
   );
 }
