@@ -10,7 +10,7 @@ const PriceCard = (props) => {
       <button className="absolute right-0 bg-white m-4 mt-3 text-red-400 rounded-full p-2 hover:bg-red-400 hover:text-white duration-300">
         <AiOutlineHeart size={23} />
       </button>
-      <div className="h-[200px] bg-blue-500">
+      <div className="h-[200px]">
         <img
           className="w-[100%] h-[100%] object-cover"
           src={props.url}

@@ -11,3 +11,31 @@
     rgba(153, 115, 209, 1) 81%
   );
 }
+
+.playButton {
+  color: rgb(153, 115, 209);
+  color: linear-gradient(
+    90deg,
+    rgba(2, 189, 144, 1) 10%,
+    rgba(27, 72, 150, 1) 50%,
+    rgba(153, 115, 209, 1) 81%
+  );
+}
+
+.visa{
+  background: rgb(2, 189, 144);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 189, 144, 1) 10%,
+    rgba(27, 72, 150, 1) 50%,
+    rgba(153, 115, 209, 1) 81%
+  );
+}
+
+
+.logoLocation{
+
+  /* color: transparent; */
+  background-clip: text;
+  background-image: linear-gradient(to top, purple,blue);
+}
